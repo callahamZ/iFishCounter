@@ -1,4 +1,4 @@
-![image](https://github.com/callahamZ/iFishCounter/assets/91182185/a1de9913-204e-41bf-83b3-2a7c71eab087)# iFishCounter
+# iFishCounter
 Dibuat oleh M Ilham Kurniawan
 
 Wirausaha Merdeka PENS 2023
