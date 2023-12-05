@@ -28,6 +28,9 @@ Contoh [dataset yang saya gunakan](https://app.roboflow.com/ds/C87Ut9iz9y?key=8s
 Sebelum menjalankan program training, ubah filepath pada `data.yaml` ke _path absolute_ dari dataset yang tersimpan di komputer anda. Sesuaikan nilai `epochs` sesuai keinginan. Setelah training selesai, akan muncul folder **runs** yang berisi hasil training sebelumnya. Model bernama `last.pt` dan `best.pt` akan muncul pada sebuah folder dan dapat digunakan untuk dijalankan pada program utama.
 
 
+Sayangnya saya tidak dapat mengunggah hasil training saya karena ukurannya mencapai 80MB, dimana melebihi batas yang di tentukan oleh GitHub.
+
+
 Selengkapnya bisa lihat dokumentasi [YOLOV8](https://github.com/ultralytics/ultralytics)
 
 
