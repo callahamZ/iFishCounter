@@ -1,4 +1,4 @@
-# iFishCounter
+![image](https://github.com/callahamZ/iFishCounter/assets/91182185/a1de9913-204e-41bf-83b3-2a7c71eab087)# iFishCounter
 Dibuat oleh M Ilham Kurniawan
 
 Wirausaha Merdeka PENS 2023
@@ -32,6 +32,9 @@ Sayangnya saya tidak dapat mengunggah hasil training saya karena ukurannya menca
 
 
 Selengkapnya bisa lihat dokumentasi [YOLOV8](https://github.com/ultralytics/ultralytics)
+
+
+Contoh [model yang saya kembangkan](https://drive.google.com/file/d/1xWAtq2ld5bosZWLvauFA0_D_nikshvRx/view?usp=drive_link). Berdasarkan [video ini](https://drive.google.com/file/d/1S5Hrc2e-nkfb5HtbBo4OpTKICKC249oY/view?usp=drive_link).
 
 
 ## Pengembangan
