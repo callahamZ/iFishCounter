@@ -1,0 +1,14 @@
+path: "D:\\ILHAM\\CODES\\PYCHARM PROJECT\\iFishCounter WMK\\Data Classes\\dataikan4"
+train: "train\\images"
+val: "valid\\images"
+test: "test\\images"
+
+nc: 1
+names: ['ikan']
+
+# roboflow:
+#   workspace: daniel-eris1511-gmail-com
+#   project: catfish-su1a9
+#   version: 2
+#   license: Public Domain
+#   url: https://universe.roboflow.com/daniel-eris1511-gmail-com/catfish-su1a9/dataset/2
